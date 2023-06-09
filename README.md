@@ -1,16 +1,67 @@
 ### Hi there 👋
 
-<!--
-**shaniquah/shaniquah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Otshepeng Setuke
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Junior/Entry-Level Software Engineer | 🌟 Passionate about Creativity and Technology | 🌍 Fluent in English and Setswana
+
+😄 Pronouns: She/Her
+⚡ Fun fact: I am also a great novelist, poet, and lyricist in my free time
+
+## About Me
+
+Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female actively seeking employment as a junior or entry-level software engineer. With a background in entrepreneurship, creative arts, and a strong passion for technology, I bring a unique blend of skills and experiences to the table.
+
+## Skills
+
+- Programming Languages: JavaScript, CSS, HTML
+- Web Development: Visual Studio Code, Figma, Miro
+- Problem Solving: Strong analytical skills and logical thinking
+- Communication: Excellent verbal and written skills in English and Setswana
+- Business Studies: Solid foundation in business concepts and practices
+- Creativity: Expertise in makeup artistry, perfumery, music and cosmetology
+
+## Projects
+
+### Web Calendar
+
+- Description: Functioning calendar that automatically calculates the current month and day and displays all dates in a grid format.
+- Technologies: HTML(16.6%), CSS(20.5%), and JavaScript(62.9%) using Visual Studio Code IDE and Google Chrome web browser
+- GitHub Repository: https://github.com/shaniquah/IWA17.git
+
+### BookConnect Web App audit
+
+- Description: Web app/social media platform for book enthusiasts
+- Technologies: HTML(0.5%), CSS(0.5%) and JavaScript(99.0%) languages using Visual Studio Code IDE and Google Chrome browser
+- GitHub Repository: https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01.git
+
+## Education
+- Certificate in Software Engineering, CodeSpace Academy, Current
+- Certificate in Web Development, CodeSpace Academy, 2023
+- Certificate in Programming Fundamentals, CodeSpace Academy, 2022
+- Matriculated Lebone II College of the Royal Bafokeng, 2020
+
+## Experience
+
+### Self-Employed Masseuse/Makeup Artist
+
+- Established and managed a successful self-employed business as a masseuse and makeup artist.
+- Delivered exceptional client experiences by understanding their needs and providing personalized services.
+- Showcased creativity and attention to detail through makeup artistry.
+
+### Freelance Cosmetology and Perfumery Student
+
+- Actively pursuing professional education in cosmetology and perfumery.
+- Acquiring knowledge and hands-on experience to develop unique cosmetic products.
+- Incorporating scientific understanding and creativity to create innovative formulas.
+
+## Contact
+
+📫 Feel free to reach out to me via email at or.setuke@gmail.com{mailto:or.setuke@gmail.com} or connect with me on LinkedIn{https://www.linkedin.com/in/otshepeng-setuke-2b829615b/}.
+
+I am actively seeking opportunities to contribute to a dynamic team and further develop my skills as a software engineer. If you have any projects or collaboration opportunities, don't hesitate to reach out!
+
+Thank you for visiting my GitHub profile. Let's connect and create something amazing together!
+
+---
+Remember to customize the README file by adding your actual name, projects, education details, experience, and contact information. Additionally, you can further personalize it with any additional sections or information you find relevant.
