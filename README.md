@@ -15,7 +15,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 ## Skills
 
 - Programming Languages: JavaScript, CSS, HTML
-- Web Development: Visual Studio Code, Figma, Miro
+- Web Development: Visual Studio Code, Figma, Miro, Sonic Pi
 - Problem Solving: Strong analytical skills and logical thinking
 - Communication: Excellent verbal and written skills in English and Setswana
 - Business Studies: Solid foundation in business concepts and practices
@@ -64,4 +64,4 @@ I am actively seeking opportunities to contribute to a dynamic team and further 
 Thank you for visiting my GitHub profile. Let's connect and create something amazing together!
 
 ---
-Remember to customize the README file by adding your actual name, projects, education details, experience, and contact information. Additionally, you can further personalize it with any additional sections or information you find relevant.
+
