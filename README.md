@@ -57,7 +57,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ## Contact
 
-📫 Feel free to reach out to me via email at or.setuke@gmail.com or connect with me on LinkedIn[https://www.linkedin.com/in/otshepeng-setuke-2b829615b/].
+📫 Feel free to reach out to me via email at or.setuke@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/otshepeng-setuke/).
 
 I am actively seeking opportunities to contribute to a dynamic team and further develop my skills as a software engineer. If you have any projects or collaboration opportunities, don't hesitate to reach out!
 
