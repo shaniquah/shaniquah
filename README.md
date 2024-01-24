@@ -23,11 +23,11 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ## Projects
 
-### Web Calendar
+### Next.js blog site
 
-- Description: Functioning calendar that automatically calculates the current month and day and displays all dates in a grid format.
-- Technologies: HTML(16.6%), CSS(20.5%), and JavaScript(62.9%) using Visual Studio Code IDE and Google Chrome web browser
-- GitHub Repository: https://github.com/shaniquah/IWA17.git
+- Description: Fun and engaging blogsite for JavaScript enthusiasts and "a-day-in-the-life" readers.
+- Technologies: Next.js(16.6%), CSS(20.5%), and JavaScript(62.9%) using Visual Studio Code IDE and Google Chrome web browser
+- GitHub Repository: https://github.com/shaniquah/udemy-nextjs-blog.git
 
 ### BookConnect Web App audit
 
@@ -36,7 +36,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 - GitHub Repository: https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01.git
 
 ## Education
-- Certificate in Software Engineering, CodeSpace Academy, Current
+- Certificate in Software Engineering, CodeSpace Academy, 2023
 - Certificate in Web Development, CodeSpace Academy, 2023
 - Certificate in Programming Fundamentals, CodeSpace Academy, 2022
 - Matriculated Lebone II College of the Royal Bafokeng, 2020
