@@ -33,7 +33,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase) ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel) ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code) ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro) ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva) ![Scratch](https://img.shields.io/badge/-Scratch-000?&logo=Scratch) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap) ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI) ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-000?&logo=SonicPi)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase) ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel) ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code) ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro) ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva) ![Scratch](https://img.shields.io/badge/-Scratch-000?&logo=Scratch) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap) ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI) ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-000?&logo=Sonic%20Pi)
 
 ### Full Stack Projects
 
@@ -41,19 +41,17 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit
 ----------------- | -------------------- | ---------------------
-✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](bookconnect.vercel.app/index.html) 
-![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
+✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](https://bookconnect.vercel.app/index.html) 
+![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/1499b1a6-732c-4cc6-aa69-89109d749307) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
 
 ### Frontend Projects
 
-[![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio) [![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar) [![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog) [![](https://img.shields.io/badge/-🌐%20Events%20Web%App-000)](https://github.com/shaniquah/next-events)
+[![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio) [![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar) [![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog) [![](https://img.shields.io/badge/-🌐☑️Events%20Web%20App-000)](https://github.com/shaniquah/udemy-nextjs)
 
 My Portfolio | Basic Calendar Web App | Blog Site | Events Web App
 --------------- | ----------------- | -------------------- | ---------------------
-✅ [Live Preview](or-setuks.vercel.app/index.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) 
-![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/3a1558f6-8d74-4eab-8233-3dd8640456c6)
-
-) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
+✅ [Live Preview](or-setuks.vercel.app/index.html) | ✅ [Live Preview](https://web-calendar-app-orsetuke.netlify.app/index.html) | ✅ [Live Preview](https://myblogg-seven.vercel.app/index.html) | ✅ [Live Preview](https://nextjs-events-app-beta.vercel.app/index.html) 
+![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/792050af-9eab-4d4c-b21c-f5643c2f0926) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/194432b6-67a8-4e3f-aa37-d857dbf8f675)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
@@ -123,7 +121,7 @@ Thank you for visiting my GitHub profile. Let's connect and create something ama
 
 ---
 
-<p align="center"> © 2024 Otshepeng Setuke, all rights reserved. Made with creativity. </p>
+<p align="center"> © 2024 Otshepeng Setuke, all rights reserved. </p>
 
 <p align="center">
 https://or-setuke.vercel.app
