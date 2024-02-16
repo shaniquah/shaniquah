@@ -41,7 +41,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit
 ----------------- | -------------------- | ---------------------
-✅ [Live Preview](.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) 
+✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](bookconnect.vercel.app/index.html) 
 ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
 
 ### Frontend Projects
@@ -51,7 +51,9 @@ Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit
 My Portfolio | Basic Calendar Web App | Blog Site | Events Web App
 --------------- | ----------------- | -------------------- | ---------------------
 ✅ [Live Preview](or-setuks.vercel.app/index.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) 
-![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
+![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/3a1558f6-8d74-4eab-8233-3dd8640456c6)
+
+) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
