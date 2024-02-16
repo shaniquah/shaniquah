@@ -29,71 +29,21 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
-
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
-![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub)
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
-
-![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
-
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
-
-![Scratch](https://img.shields.io/badge/-Scratch-000?&logo=Scratch)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI)
-
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-
-![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
-
-![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-002?&logo=SonicPi)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase) ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel) ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code) ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro) ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva) ![Scratch](https://img.shields.io/badge/-Scratch-000?&logo=Scratch) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap) ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI) ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-000?&logo=SonicPi)
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog)
-
-[![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/)
-
-[![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01)
+[![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog) [![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/) [![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01)
 
 ### Frontend Projects
 
-[![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio)
+[![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio) [![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar) [![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog) [![](https://img.shields.io/badge/-🌐%20Events%20Web%App-000)](https://github.com/shaniquah/next-events)
 
-[![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar)
-
-[![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog)
-
-[![](https://img.shields.io/badge/-🌐%20Events%20Web%App-000)](https://github.com/shaniquah/next-events)
-
-<a href="https://or-setuke.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ## Soft Skills
 
@@ -161,3 +111,10 @@ Thank you for visiting my GitHub profile. Let's connect and create something ama
 
 ---
 
+<p align="center"> © 2024 Otshepeng Setuke, all rights reserved. Made with creativity. </p>
+
+<p align="center">
+https://or-setuke.vercel.app
+</p>
+
+---
