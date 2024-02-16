@@ -39,9 +39,19 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 [![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog) [![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/) [![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01)
 
+Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit
+----------------- | -------------------- | ---------------------
+✅ [Live Preview](.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) 
+![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
+
 ### Frontend Projects
 
 [![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio) [![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar) [![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog) [![](https://img.shields.io/badge/-🌐%20Events%20Web%App-000)](https://github.com/shaniquah/next-events)
+
+My Portfolio | Basic Calendar Web App | Blog Site | Events Web App
+--------------- | ----------------- | -------------------- | ---------------------
+✅ [Live Preview](or-setuks.vercel.app/index.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) | ✅ [Live Preview](.html) 
+![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
