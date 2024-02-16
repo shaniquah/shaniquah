@@ -1,17 +1,27 @@
 # OTSHEPENG SETUKE
 
-[![](https://raw.githubusercontent.com/shaniquah/shaniquah/master/ors_frontend_dev_github_banner.mp4)](https://or-setuke.vercel.app/)
+
+
+https://github.com/shaniquah/shaniquah/assets/20059688/360ee44c-8fe8-40e5-b2a4-552bff942ba6
+
+
 
 Hi there 👋
 
 ## OTSHEPENG SETUKE
 
+
+![about-profile](https://github.com/shaniquah/shaniquah/assets/20059688/83c0f8c4-5075-4444-8c06-bb4070db3ef3)
+
 👩‍💻 Junior/Entry-Level Software Engineer | 🌟 Passionate about Creativity and Technology | 🌍 Fluent in English and Setswana
 
 😄 Pronouns: She/Her
-⚡ Fun fact: I am also a great novelist, poet, and lyricist in my free time
+⚡ Fun fact: I am also a great novelist, poet, and vocalist in my free time
 
 ## About Me
+
+![bannerimg](https://github.com/shaniquah/shaniquah/assets/20059688/2ed8c74b-caec-4027-b605-dc695615e7f5)
+
 
 Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female actively seeking employment as a junior or entry-level software engineer. With a background in entrepreneurship, creative arts, and a strong passion for technology, I bring a unique blend of skills and experiences to the table
 
@@ -21,9 +31,9 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 ### Technologies
 
@@ -53,85 +63,91 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 
-![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-000?&logo=Sonic%20Pi)
+![Scratch](https://img.shields.io/badge/-Scratch-000?&logo=Scratch)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI)
+
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+
+![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-002?&logo=SonicPi)
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/shaniquah/next-blog)
+[![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog)
 
 [![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/)
 
+[![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01)
+
 ### Frontend Projects
 
-[![](https://img.shields.io/badge/-💼Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio)
-
-[![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01)
+[![](https://img.shields.io/badge/-💼📋Portfolio-000)](https://github.com/shaniquah/tailwind-portfolio)
 
 [![](https://img.shields.io/badge/-📆%20Web%20Calendar-000)](https://github.com/shaniquah/web-calendar)
 
 [![](https://img.shields.io/badge/-📰💻%20Blog-000)](https://github.com/shaniquah/nextjs-blog)
 
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/shaniquah/Network-Tools)
+[![](https://img.shields.io/badge/-🌐%20Events%20Web%App-000)](https://github.com/shaniquah/next-events)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-
+<a href="https://or-setuke.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ## Soft Skills
 
-### Problem Solving: 
+### Problem Solving
 Strong analytical skills and logical thinking
+Attention to detail, ability to think "on my feet" to deliver solutions to unforeseen problems
+Troubleshooting and debugging 
+Quick wit
 
-### Communication:
-Excellent verbal and written skills in English and Setswana
+### Communication
+Excellent verbal and written skills in English
+Fluent verbal skills in Setswana
 
-### Interpersonal and Collaborative:
+### Interpersonal and Collaborative
+Collaborative mindset, sharing information and newfound knowledge, and working together towards a common goal
+Ability to keep a professional composure with teammates and coaches
+User- and client-centric thinking, ability to place myself in the client's position and deliver specified needs(MVP) as per user stories 
 
-### Self driven and motivated:
+### Self driven and motivated
+Ability to self start, thriving in individual work as well as great leadership qualities in a team environment 
 
-### Continuous learning:
+### Continuous learning
 Always seeking new knowledge and skills through online platforms and peers
+Ability to absorb new knowledge, acquire new skills with on-the-job training and apply it to projects
 
-### Business Studies: 
+### Business Studies
 Solid foundation in business concepts and practices
 
-### Creativity: 
+### Creativity
+Ability to approach tasks with new bright ideas and creative solutions
 Expertise in makeup artistry, perfumery, music and cosmetology
-
-## Projects
-
-### Next.js blog site
-
-- Description: Fun and engaging blogsite for JavaScript enthusiasts and "a-day-in-the-life" readers.
-- Technologies: Next.js(16.6%), CSS(20.5%), and JavaScript(62.9%) using Visual Studio Code IDE and Google Chrome web browser
-- GitHub Repository: https://github.com/shaniquah/
-
-### BookConnect Web App audit
-
-- Description: Web app/social media platform for book enthusiasts
-- Technologies: HTML(0.5%), CSS(0.5%) and JavaScript(99.0%) languages using Visual Studio Code IDE and Google Chrome browser
-- GitHub Repository: https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01.git
 
 ## Education
 
 ### Certificate in Software Engineering, CodeSpace Academy, 2023
+Completed a 12month certificate program in Full Stack JavaScript Engineering, honing skills in JavaScript, React, and Node.js among others. Acquired skills in working under pressure in an agile work simulation environment.
 
 ### Certificate in Web Development, CodeSpace Academy, 2023
+Acquired skills in dynamic and interactive web development using various libraries and franeworks, focusing in JavaScript technologies.
 
 ### Certificate in Programming Fundamentals, CodeSpace Academy, 2022
+Honed Computer Literacy and problem solving skills, and basic coding practices. Acquired understanding of pseudocode and basic development using Scratch.
 
 ### Matriculated Lebone II College of the Royal Bafokeng, 2020
+Completed High School matric.
 
 ## Other Experiences
 
 ### Self-Employed Masseuse/Makeup Artist
-
 - Established and managed a successful self-employed business as a masseuse and makeup artist.
 - Delivered exceptional client experiences by understanding their needs and providing personalized services.
 - Showcased creativity and attention to detail through makeup artistry.
 
 ### Freelance Cosmetology and Perfumery Student
-
 - Actively pursuing professional education in cosmetology and perfumery.
 - Acquiring knowledge and hands-on experience to develop unique cosmetic products.
 - Incorporating scientific understanding and creativity to create innovative formulas.
@@ -140,7 +156,6 @@ Expertise in makeup artistry, perfumery, music and cosmetology
 
 📫 Feel free to reach out to me via [email](or.setuke@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/otshepeng-setuke/).
 
-I am actively seeking opportunities to contribute to a dynamic team and further develop my skills as a software engineer. If you have any projects or collaboration opportunities, don't hesitate to reach out!
 
 Thank you for visiting my GitHub profile. Let's connect and create something amazing together!
 
