@@ -37,12 +37,12 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog) [![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/) [![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01) [![](https://img.shields.io/badge/-🎙️🎧Podcast%20Web%20App-000)]()
+[![](https://img.shields.io/badge/-💻📰Blog%20Site-000)](https://github.com/shaniquah/next-blog) [![](https://img.shields.io/badge/-🍽️Recipe%20App-000)](https://github.com/CodeSpace/ASE/groupA/) [![](https://img.shields.io/badge/-📖📚Book%20Connect-000)](https://github.com/shaniquah/OTSSET869_bcl2302_Chanique_OtshepengSetuke_IWA19_01) [![](https://img.shields.io/badge/-🎙️🎧LaNiquáhCast-000)](https://github.com/shaniquah/LaNiquahCast)
 
-Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit | Podcast Web App
------------------ | -------------------- | ---------------- | ---------
-✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](https://bookconnect-ors.netlify.app/) | ✅ [Live Preview]()
-![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/1499b1a6-732c-4cc6-aa69-89109d749307) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/ebde4a1d-0733-43ad-a0c5-6ec2f1f36d98)
+Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit | LaNiquáhCast Podcast Web App
+----------------- | -------------------- | -------------- | ---------
+✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](https://bookconnect-ors.netlify.app/) | ✅ [Live Preview](podcastapp)
+![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/1499b1a6-732c-4cc6-aa69-89109d749307) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/ebde4a1d-0733-43ad-a0c5-6ec2f1f36d98) | ![Podcast App]()
 
 
 ### Frontend Projects
