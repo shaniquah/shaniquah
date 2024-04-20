@@ -85,7 +85,7 @@ Solid foundation in business concepts and practices
 
 ### Creativity
 Ability to approach tasks with new bright ideas and creative solutions
-Expertise in makeup artistry, perfumery, music and cosmetology
+Expertise in web interface styling, design planning and UI/UX design
 
 ## Education
 
@@ -93,7 +93,7 @@ Expertise in makeup artistry, perfumery, music and cosmetology
 Completed a 12month certificate program in Full Stack JavaScript Engineering, honing skills in JavaScript, React, and Node.js among others. Acquired skills in working under pressure in an agile work simulation environment.
 
 ### Certificate in Web Development, CodeSpace Academy, 2023
-Acquired skills in dynamic and interactive web development using various libraries and franeworks, focusing in JavaScript technologies.
+Acquired skills in dynamic and interactive web development using various libraries and franeworks, focusing on JavaScript technologies.
 
 ### Certificate in Programming Fundamentals, CodeSpace Academy, 2022
 Honed Computer Literacy and problem solving skills, and basic coding practices. Acquired understanding of pseudocode and basic development using Scratch.
@@ -104,7 +104,7 @@ Completed High School matric.
 ## Other Experiences
 
 ### Self-Employed Masseuse/Makeup Artist
-- Established and managed a successful self-employed business as a masseuse and makeup artist.
+- Established and managed a self-employed business as a masseuse and makeup artist.
 - Delivered exceptional client experiences by understanding their needs and providing personalized services.
 - Showcased creativity and attention to detail through makeup artistry.
 
