@@ -41,7 +41,7 @@ Hello! I'm Otshepeng Setuke, a highly motivated and ambitious young female activ
 
 Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit | LaNiquáhCast Podcast Web App
 ----------------- | -------------------- | -------------- | ---------
-✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/index.html) | ✅ [Live Preview](https://cooking-devs.vercel.app/index.html) | ✅ [Live Preview](https://bookconnect-ors.netlify.app/) | ✅ [Live Preview](podcastapp)
+✅ [Live Preview](https://myblogg-h8hs2rqno-otshepeng-setukes-projects.vercel.app/) | ✅ [Live Preview](https://cooking-devs.vercel.app/) | ✅ [Live Preview](https://bookconnect-ors.netlify.app/) | ✅ [Live Preview](podcastapp)
 ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Recipe App](https://github.com/shaniquah/shaniquah/assets/20059688/1499b1a6-732c-4cc6-aa69-89109d749307) | ![BookConnect Audit](https://github.com/shaniquah/shaniquah/assets/20059688/ebde4a1d-0733-43ad-a0c5-6ec2f1f36d98) | ![Podcast App]()
 
 
@@ -51,7 +51,7 @@ Next.js Blog Site | Cooking Devs Recipe App | BookConnect Web App Audit | LaNiqu
 
 My Portfolio | Basic Calendar Web App | Blog Site | Events Web App
 --------------- | ----------------- | -------------------- | ---------------------
-✅ [Live Preview](or-setuks.vercel.app/index.html) | ✅ [Live Preview](https://web-calendar-app-orsetuke.netlify.app/index.html) | ✅ [Live Preview](https://myblogg-seven.vercel.app/index.html) | ✅ [Live Preview](https://nextjs-events-app-beta.vercel.app/index.html) 
+✅ [Live Preview](or-setuke.vercel.app/) | ✅ [Live Preview](https://web-calendar-app-orsetuke.netlify.app/) | ✅ [Live Preview](https://myblogg-seven.vercel.app/) | ✅ [Live Preview](https://nextjs-events-app-beta.vercel.app/) 
 ![My Portfolio](https://github.com/shaniquah/shaniquah/assets/20059688/d4f830a7-500a-4f9d-a963-73feb0c1b365) | ![Basic Calendar](https://github.com/shaniquah/shaniquah/assets/20059688/792050af-9eab-4d4c-b21c-f5643c2f0926) | ![Blog Site](https://github.com/shaniquah/shaniquah/assets/20059688/e41312e4-78c7-4e91-a260-ebba721a3a71) | ![Events Web App](https://github.com/shaniquah/shaniquah/assets/20059688/194432b6-67a8-4e3f-aa37-d857dbf8f675)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shaniquah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniquah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
